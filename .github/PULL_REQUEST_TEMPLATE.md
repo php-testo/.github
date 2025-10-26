@@ -4,6 +4,8 @@
 
 <!-- Describe what has changed in this PR -->
 
+See commit history for details.
+
 ## Why?
 
 <!-- Tell your future self why have you made these changes -->
