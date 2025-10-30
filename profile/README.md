@@ -7,7 +7,7 @@
 
 <br />
 
-**Testo** (pronounced [test-oh], meaning "dough" in Russian) — is an extensible testing framework for PHP.
+**Testo** (pronounced [test-oh], meaning "dough" in East and South Slavic languages) — is an extensible testing framework for PHP.
 Built for scenarios requiring complete customization of the testing process: SDKs, framework tools, complex integrations.
 
 Unlike other testing frameworks, Testo provides all at once: familiar and convenient PHP syntax,
