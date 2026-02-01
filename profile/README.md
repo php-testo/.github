@@ -5,6 +5,13 @@
     /></a>
 </p>
 
+<div align="center">
+
+[![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://php-testo.github.io/)
+[![Support on Boosty](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Sponsorship&logo=Boosty&logoColor=white&color=%23F15F2C)](https://boosty.to/roxblnfk)
+
+</div>
+
 <br />
 
 **Testo** (pronounced [test-oh], meaning "dough" in East and South Slavic languages) — is an extensible testing framework for PHP.
