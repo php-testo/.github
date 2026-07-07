@@ -1,5 +1,9 @@
 # Code of Conduct
 
+<p align="center">
+    <img alt="Testo community" src="https://github.com/php-testo/.github/blob/1.x/resources/coc.jpg?raw=true" style="max-width: 100%;" />
+</p>
+
 We're engineers, and we're here for the code. Testo is a project by and for PHP developers who take the craft seriously. The one thing we ask of everyone taking part is **professional respect**.
 
 ## What we expect
